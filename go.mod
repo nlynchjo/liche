@@ -1,4 +1,4 @@
-module github.com/raviqqe/liche
+module github.com/nlynchjo/liche
 
 go 1.13
 
