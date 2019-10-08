@@ -9,7 +9,7 @@ require (
 	github.com/kr/text v0.1.0
 	github.com/mattn/go-colorable v0.1.4 // indirect
 	github.com/mattn/go-isatty v0.0.9 // indirect
-	github.com/russross/blackfriday/tree/v2 v2.0.1
+	github.com/russross/blackfriday/v2 v2.0.1
 	github.com/shurcooL/sanitized_anchor_name v1.0.0 // indirect
 	github.com/stretchr/testify v1.4.0
 	github.com/valyala/fasthttp v1.5.0
